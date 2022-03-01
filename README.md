@@ -1,5 +1,5 @@
 Nama : Fachri Ramadhan
-Asal : Serang, Banten | sesuatu text
+Asal : Serang, Banten
 - Fachri Ramadhan
     - Github Akun: Fachri07.
     - Profile: Fachri Ramadhan.
